@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 100%;
+    align-items: center;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 100%;
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    flex: 1 1 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 5px 10px #888;
+}
+
+
+.Mycanvas{
+    height:500px;
+    width:1000ox;
+}
